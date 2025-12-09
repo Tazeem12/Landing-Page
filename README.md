@@ -1,1 +1,1 @@
-# Landing-Page
+# dashboard using grid only in narrow and wider mode 
